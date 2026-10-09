@@ -1,27 +1,27 @@
 # SEO 与独立站内容运营知识库
 
-170 条中英文专业术语，覆盖网页结构、关键词研究、技术 SEO、电商内容与转化运营，以及 AI 搜索。每条术语包含定义和实战应用。
+独立站 SEO、内容运营与转化优化的中英文术语参考。
 
-适合 SEO、内容运营和独立站运营人员查阅。
+**170 条术语 · 5 个章节 · 25 个分类**
 
-## 快速查阅
+[查找术语 A–Z](docs/glossary-index.md) · [从网页结构开始](docs/01-web-structure.md)
 
-- [全部术语 A–Z 索引](docs/glossary-index.md)
+## 章节导航
 
-## 章节目录
-
-| 章节 | 内容 | 术语数量 |
+| 章节 | 主要内容 | 术语数 |
 | --- | --- | ---: |
-| 1 | [Web2 博客与前端结构](docs/01-web-structure.md) | 35 |
-| 2 | [实战 SEO 关键词 SOP](docs/02-keyword-sop.md) | 32 |
-| 3 | [Google 技术 SEO](docs/03-technical-seo.md) | 40 |
-| 4 | [独立站电商内容与转化运营](docs/04-ecommerce-cro.md) | 30 |
-| 5 | [AI 搜索与行业前沿概念](docs/05-ai-search.md) | 33 |
+| **01** [Web2 博客与前端结构](docs/01-web-structure.md) | Meta 标签、标题层级、图片与内链 | 35 |
+| **02** [实战 SEO 关键词 SOP](docs/02-keyword-sop.md) | 关键词挖掘、清洗、聚类、映射与页面布局 | 32 |
+| **03** [Google 技术 SEO](docs/03-technical-seo.md) | 抓取、索引、渲染、网页性能与结构化数据 | 40 |
+| **04** [独立站电商内容与转化运营](docs/04-ecommerce-cro.md) | 销售漏斗、页面内容、转化指标与邮件营销 | 30 |
+| **05** [AI 搜索与行业前沿概念](docs/05-ai-search.md) | AI 搜索、E-E-A-T、实体 SEO 与新兴概念 | 33 |
 
 ## 按任务查阅
 
-- **搭建或检查页面结构**：[网页结构](docs/01-web-structure.md)，包含 Meta 标签、标题层级、图片与内链。
-- **研究关键词并分配到页面**：[关键词 SOP](docs/02-keyword-sop.md)，从挖掘、清洗、聚类到映射与布局。
-- **排查抓取、收录和性能问题**：[技术 SEO](docs/03-technical-seo.md)，包含渲染、核心网页指标与结构化数据。
-- **优化产品页和转化流程**：[电商内容与转化运营](docs/04-ecommerce-cro.md)，包含销售漏斗、转化指标与邮件营销。
-- **理解 AI 搜索与新兴概念**：[AI 搜索与行业前沿](docs/05-ai-search.md)，包含 AIO、GEO、AEO、E-E-A-T 与实体 SEO。
+| 当前任务 | 阅读入口 |
+| --- | --- |
+| 搭建或检查页面结构 | [网页结构](docs/01-web-structure.md) |
+| 研究关键词并分配到页面 | [关键词 SOP](docs/02-keyword-sop.md) |
+| 排查抓取、收录和性能问题 | [技术 SEO](docs/03-technical-seo.md) |
+| 优化产品页和转化流程 | [电商内容与转化运营](docs/04-ecommerce-cro.md) |
+| 理解 AI 搜索与新兴概念 | [AI 搜索与行业前沿](docs/05-ai-search.md) |
